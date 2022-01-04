@@ -8,9 +8,11 @@ Download model trained on crowd human using yolov5(m) architeture.<br>
 Download Link:  [YOLOv5m-crowd-human](https://drive.google.com/file/d/1gglIwqxaH2iTvy6lZlXuAcMpd_U0GCUb/view?usp=sharing)<br>
 
 ### Useage
-`python run.py --weights crowdhuman_yolov5m.pt --source input/ --heads`
+`python run.py --weights crowdhuman_yolov5m.pt --source input/ --heads`<br>
+Place image and video files in `/input/` folder.<br> 
+Result images will be in `/output/` and videos with sound will be in `/output/sound/`
 
 ### Demo
-Click image view Imgur demo<br>
+Click image view Imgur video<br>
 [<img src="https://i.imgur.com/jP7URzA.png" width="512" height="512">](https://imgur.com/BEeOS5w)<br>
 (note, demo is silent but videos in `/output/sound` contain audio)
