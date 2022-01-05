@@ -14,5 +14,5 @@ Result images will be in `/output/` and videos with sound will be in `/output/so
 
 ### Demo
 Click image view Imgur video<br>
-[<img src="https://i.imgur.com/jP7URzA.png" width="512" height="512">](https://imgur.com/BEeOS5w)<br>
+[<img src="https://i.imgur.com/jP7URzA.png" width="512" height="512" target="_blank">](https://imgur.com/BEeOS5w)<br>
 (note, demo is silent but videos in `/output/sound` contain audio)
